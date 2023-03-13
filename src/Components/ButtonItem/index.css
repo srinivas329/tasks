@@ -1,0 +1,13 @@
+.btn-list-items {
+  list-style-type: none;
+  margin: 10px;
+  margin-left: 0px;
+}
+.btns {
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+  min-width: 100px;
+  color: white;
+  height: 26px;
+  border-radius: 13px;
+}

@@ -1,0 +1,55 @@
+.left-card {
+  background-color: #131213;
+  width: 40%;
+  height: 100vh;
+  padding: 120px;
+}
+.heading {
+  color: #f3aa4e;
+  font-family: roboto;
+}
+.labels {
+  color: white;
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: 600;
+}
+.input {
+  width: 270px;
+  border-radius: 5px;
+  outline: none;
+
+  height: 30px;
+  margin-bottom: 18px;
+}
+.button {
+  background-color: #f3aa4e;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+}
+.right-card {
+  background-color: #000000;
+  width: 60%;
+  padding: 50px;
+}
+.btn-ul-list {
+  padding: 0px;
+  display: flex;
+  align-items: center;
+}
+.tags-heading {
+  color: white;
+}
+.task-ul-list {
+  padding: 0px;
+}
+
+.tags-heading2 {
+  color: white;
+  margin-top: 200px;
+  margin-left: 200px;
+}
